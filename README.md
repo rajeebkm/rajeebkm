@@ -2,18 +2,15 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-javascript
 const rajeeb= {
-pronouns: "He" | "His",
-code: ["C++", "JavaScript", "Java","Python","Solidity"],
-askMeAbout: ["WebDevelopment", "Blockchain"],
-technologies: {
-frontEnd: {
-basicTech: ["HTML","CSS","JS","ReactJs"]
-},
-backEnd: {
-nodeJs: ["ExpressJS"]
-},
+        pronouns: "He" | "His",
+        code: ["C++", "JavaScript", "Java","Python","Solidity"],
+        askMeAbout: ["WebDevelopment", "Blockchain"],
+        technologies: {
+                frontEnd: {
+                        basicTech: ["HTML","CSS","JS","ReactJs"] },
+                backEnd: {
+                        nodeJs: ["ExpressJS"] },
 
         databases: ["MongoDB", "MySQL"]
     },
