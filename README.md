@@ -4,8 +4,7 @@
 
 
        
-        databases: ["MongoDB", "MySQL"]
-    },
+        
     const rajeeb= {
     pronouns: "He" | "His",
     code: ["C++", "JavaScript", "Java","Python","Solidity", Rust],
@@ -17,6 +16,8 @@
         backEnd: {
             nodeJs: ["ExpressJS"]
         },
+        databases: ["MongoDB", "MySQL"]
+    },
     currentFocus: "Blockchain Reasearch and Development",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
