@@ -1,14 +1,10 @@
-### Hi there 👋
+### Hi, there 👋
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-
-
-
-
 const rajeeb= {
     pronouns: "He" | "His",
-    code: ["C++", "JavaScript", "Java","Python","Solidity"],
+    code: ["C++", "JavaScript", "Java","Python","Solidity", Rust],
     askMeAbout: ["WebDevelopment",  "Blockchain"],
     technologies: {
         frontEnd: {
@@ -20,7 +16,7 @@ const rajeeb= {
        
         databases: ["MongoDB", "MySQL"]
     },
-    currentFocus: "Competitive Programming using C++",
+    currentFocus: "Blockchain Reasearch and Development",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 
