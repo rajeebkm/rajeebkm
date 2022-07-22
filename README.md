@@ -4,16 +4,16 @@
 
 #### const rajeeb= { 
 #### pronouns: "He" | "His", 
-code: ["C++", "JavaScript", "Java","Python","Solidity"], 
-askMeAbout: ["WebDevelopment", "Blockchain"], 
-technologies: { 
-frontEnd: {
-basicTech: ["HTML","CSS","JS","ReactJs"] }, 
-backEnd: { 
-nodeJs: ["ExpressJS"] },
-databases: ["MongoDB", "MySQL"] }, 
-currentFocus: "Competitive Programming using C++", 
-funFact: "There are two ways to write error-free programs; only the third one works" };
+#### code: ["C++", "JavaScript", "Java","Python","Solidity"], 
+#### askMeAbout: ["WebDevelopment", "Blockchain"], 
+#### technologies: { 
+#### frontEnd: {
+#### basicTech: ["HTML","CSS","JS","ReactJs"] }, 
+#### backEnd: { 
+#### nodeJs: ["ExpressJS"] },
+#### databases: ["MongoDB", "MySQL"] }, 
+#### currentFocus: "Competitive Programming using C++", 
+#### funFact: "There are two ways to write error-free programs; only the third one works" };
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I am interesting to talk with different people on different new technologies</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
