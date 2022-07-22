@@ -16,6 +16,17 @@ const rajeeb= {
        
         databases: ["MongoDB", "MySQL"]
     },
+    const rajeeb= {
+    pronouns: "He" | "His",
+    code: ["C++", "JavaScript", "Java","Python","Solidity", Rust],
+    askMeAbout: ["WebDevelopment",  "Blockchain"],
+    technologies: {
+        frontEnd: {
+            basicTech: ["HTML","CSS","JS","ReactJs"]
+        },
+        backEnd: {
+            nodeJs: ["ExpressJS"]
+        },
     currentFocus: "Blockchain Reasearch and Development",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
