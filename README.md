@@ -11,7 +11,7 @@
     askMeAbout: ["Web Development",  "Blockchain", "DeFi", "Web3", "Tokenomics", "Cryptocurrency", "ICO", "IDO", "NFTs"],
     technologies: {
         frontEnd: {
-            basicTech: ["HTML","CSS","JS","ReactJs"]
+            basicTech: ["HTML","CSS","JS","ReactJs/NextJS"]
         },
         backEnd: {
             nodeJs: ["ExpressJS"]
