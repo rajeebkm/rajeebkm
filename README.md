@@ -4,7 +4,7 @@
 
 
        
-    ```Shell  
+     
     const rajeeb= {
     pronouns: "He" | "His",
     code: ["C++", "JavaScript", "Java","Python","Solidity", "Rust", "ReactJS/NextJS"],
@@ -21,7 +21,6 @@
     currentFocus: "Blockchain Reasearch and Development",
     funFact: "There are two ways to write error-free programs; only the third one works" -- Alan Perlis
 };
-```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to talk with different people on leading edge technologies,</b> so if you want to connect with me and say <b>"Hi", I'll be more happy to meet you!</b> 😊</em>
 
