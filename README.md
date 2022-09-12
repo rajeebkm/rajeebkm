@@ -36,7 +36,8 @@
 
 **Cloud**
 
-<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png">
+| <img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png">|
+|--|
 
 **Socials**
 <p align="left">
@@ -56,8 +57,8 @@
 <br/>
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeebkm&theme=dark&hide_border=false" alt="Rajeeb Kumar Malik Github Streak" >
-</p> 
-| ------------- | ------------- |
+</p> |
+| ------------- | ------------- | ------------- |
 
 
 
