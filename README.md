@@ -50,16 +50,16 @@
 
 **GitHub Stats**
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeebkm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Rajeeb Kumar Malik Github Stats" width="48%" align="right" >
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeebkm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Rajeeb Kumar Malik Github Stats" width="48%" align="right" >
 
 <img src="https://github-readme-stats.vercel.app/api?username=rajeebkm&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Rajeeb Kumar Malik Github Streak" width="48%">
 <br/>
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeebkm&theme=dark&hide_border=false" alt="Rajeeb Kumar Malik Github Streak" >
-</p>
+</p> |
+| ------------- | ------------- |
+
+
 
 ---
 
