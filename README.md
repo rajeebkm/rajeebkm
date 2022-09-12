@@ -4,7 +4,7 @@
 
 
        
-    ```JavaScript    
+    ```javascript    
     const rajeeb= {
     pronouns: "He" | "His",
     code: ["C++", "JavaScript", "Java","Python","Solidity", "Rust", "ReactJS/NextJS"],
