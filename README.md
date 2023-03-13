@@ -48,10 +48,10 @@
 
 <img src="github-readme-stats-rajeebkm.vercel.app/api/top-langs/?username=rajeebkm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Rajeeb Kumar Malik Github Stats" width="48%" align="right" >
 
-<img src="https://github-readme-stats.vercel.app/api?username=rajeebkm&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Rajeeb Kumar Malik Github Streak" width="48%">
+<img src="github-readme-stats-rajeebkm.vercel.app/api?username=rajeebkm&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Rajeeb Kumar Malik Github Streak" width="48%">
 <br/>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeebkm&theme=dark&hide_border=false" alt="Rajeeb Kumar Malik Github Streak" >
+<img src="github-readme-stats-rajeebkm.vercel.app/?user=rajeebkm&theme=dark&hide_border=false" alt="Rajeeb Kumar Malik Github Streak" >
 </p>
 
 
@@ -64,6 +64,3 @@
 
 <!-- footer image -->
 ![](https://i.imgur.com/waxVImv.png)
-
-
-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
