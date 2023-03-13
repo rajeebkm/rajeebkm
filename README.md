@@ -46,7 +46,7 @@
 
 **GitHub Stats**
 
-<img src="github-readme-stats-rajeebkm.vercel.app/api/top-langs/?username=rajeebkm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false" width="48%" align="right" >
+<img src="github-readme-stats-rajeebkm.vercel.app/api/top-langs/?username=rajeebkm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false" width="48%" align="left" alt="Rajeeb Kumar Malik Github Streak">
 
 <!-- <img src="github-readme-stats-rajeebkm.vercel.app/api?username=rajeebkm&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Rajeeb Kumar Malik Github Streak" width="48%"> -->
 <br/>
