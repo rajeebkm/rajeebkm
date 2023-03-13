@@ -55,6 +55,9 @@
 </p>
 <br/>
 <img src="github-readme-stats-rajeebkm.vercel.app/api/top-langs/?username=rajeebkm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false" width="48%" align="left" alt="Rajeeb Kumar Malik Github Streak">
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeebkm&theme=dark&hide_border=false" alt="Rajeeb Kumar Malik Github Streak" >
+</p>
 
 
 
