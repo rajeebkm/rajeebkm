@@ -52,7 +52,7 @@
 <br/>
 
 <p align="center">
-<img src="github-readme-stats-rajeebkm.vercel.app/api/top-langs/?user=rajeebkm&theme=dark&hide_border=false" alt="Rajeeb Kumar Malik Github Streak" >
+<img src="github-readme-stats-rajeebkm.vercel.app/api/top-langs/?username=rajeebkm&theme=dark&hide_border=false" alt="Rajeeb Kumar Malik Github Streak" >
 </p>
 
 
