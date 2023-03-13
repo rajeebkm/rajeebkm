@@ -59,8 +59,8 @@
 
 ---
 
-[![spyder github activity graph](github-readme-stats-rajeebkm.vercel.app/graph?username=rajeebkm&theme=react-dark)](https://github.com/rajeebkm)
-
+### 🐍 Watch Snake eating my contribution :
+![snake svg](https://github.com/rajeebkm/rajeebkm/blob/output/github-contribution-grid-snake.svg)
 
 <!-- footer image -->
 ![](https://i.imgur.com/waxVImv.png)
