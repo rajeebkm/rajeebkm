@@ -51,7 +51,7 @@
 <!-- <img src="github-readme-stats-rajeebkm.vercel.app/api?username=rajeebkm&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Rajeeb Kumar Malik Github Streak" width="48%"> -->
 <br/>
 <p align="center">
-<img src="https://github-readme-streak-stats-rajeebkm.herokuapp.com/?user=rajeebkm&theme=dark&hide_border=false" alt="Rajeeb Kumar Malik Github Streak" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeebkm&theme=dark&hide_border=true" alt="Rajeeb Kumar Malik Github Streak" >
 </p>
 
 
