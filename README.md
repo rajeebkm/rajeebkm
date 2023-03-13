@@ -40,17 +40,17 @@
 
 
 <p align="left">
-<a href="https://twitter.com/malikrk254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="40" width="50" /></a> <a href="https://www.linkedin.com/in/rajeebkrmalik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajeebkrmalik/" height="40" width="50" /></a> <a href="https://www.codechef.com/users/rajeebkmalik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="40" width="50" /></a>  <a href="https://www.hackerrank.com/rkm2541997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="40" width="50" /></a> <a href="https://leetcode.com/rajeebkm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rajeebkm/" height="40" width="50" /></a> </p>
+<a href="https://twitter.com/rajeebdoteth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="40" width="50" /></a> <a href="https://www.linkedin.com/in/rajeebkrmalik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajeebkrmalik/" height="40" width="50" /></a> <a href="https://www.codechef.com/users/rajeebkmalik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="40" width="50" /></a>  <a href="https://www.hackerrank.com/rkm2541997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="40" width="50" /></a> <a href="https://leetcode.com/rajeebkm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rajeebkm/" height="40" width="50" /></a> </p>
 
 
 
 **GitHub Stats**
 
-<img src="github-readme-stats-rajeebkm.vercel.app/api/top-langs/?username=rajeebkm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false" width="48%" align="center" alt="Rajeeb Kumar Malik Github Streak">
+<img src="github-readme-stats-rajeebkm.vercel.app/api/top-langs/?username=rajeebkm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false" width="48%" align="left" alt="Rajeeb Kumar Malik Github Streak">
 
 <!-- <img src="github-readme-stats-rajeebkm.vercel.app/api?username=rajeebkm&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Rajeeb Kumar Malik Github Streak" width="48%"> -->
-<!-- <br/> -->
-<p align="center">
+<br/>
+<p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeebkm&theme=dark&hide_border=false" alt="Rajeeb Kumar Malik Github Streak" >
 </p>
 
