@@ -6,7 +6,7 @@
     code: ["C++", "JavaScript", "Java","Python","Solidity", "Cairo", "Rust", "ReactJS/NextJS"],
     askMeAbout: ["Web Development",  "Blockchain", "DeFi", "Web3", "Tokenomics", "Cryptocurrency",
     "ICO", "IDO", "NFTs"],
-    
+
     technologies: {
         frontEnd: {
             basicTech: ["HTML","CSS","JS","ReactJs/NextJS"]
@@ -17,7 +17,7 @@
         databases: ["MongoDB", "MySQL"]
     },
     
-    currentFocus: "Blockchain Reasearch and Development",
+    currentFocus: "Blockchain R&D, Smart Contract Security",
     funFact: "There are two ways to write error-free programs; only the third one works" -- Alan Perlis
     };
 
