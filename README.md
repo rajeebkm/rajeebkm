@@ -6,7 +6,7 @@
     code: ["C++", "JavaScript", "Java","Python","Solidity", "Cairo", "Rust", "ReactJS/NextJS"],
     askMeAbout: ["Web Development",  "Blockchain", "DeFi", "Web3", "Tokenomics", "Cryptocurrency",
     "ICO", "IDO", "NFTs"],
-    
+  
     technologies: {
         frontEnd: {
             basicTech: ["HTML","CSS","JS","ReactJs/NextJS"]
