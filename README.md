@@ -16,7 +16,6 @@
         
         databases: ["MongoDB", "MySQL"]
     },
-    
     currentFocus: "Blockchain R&D, Smart Contract Security",
     funFact: "There are two ways to write error-free programs; only the third one works" -- Alan Perlis
     };
