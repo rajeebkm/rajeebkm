@@ -4,8 +4,8 @@
     const rajeeb= {
     pronouns: "He" | "His",
     code: ["C++", "JavaScript", "Java","Python","Solidity", "Cairo", "Rust", "ReactJS/NextJS"],
-    askMeAbout: ["Web Development",  "Blockchain", "DeFi", "Web3", "Lending and Borrowing", "Perpetual DEx", "Prediction Markets", "Tokenomics", "Cryptocurrency",
-    "ICO", "IDO", "NFTs"],
+    askMeAbout: ["Web Development",  "Blockchain", "DeFi", "Web3", "Lending and Borrowing", "Perpetual DEx", 
+    "Prediction Markets", "Tokenomics", "Cryptocurrency", "ICO", "IDO", "NFTs"],
 
     technologies: {
         frontEnd: {
